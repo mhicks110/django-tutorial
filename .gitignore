@@ -5,7 +5,7 @@ venv2/
 db.sqlite3
 .env
 .coverage
-.vscode
+.vscode/
 htmlcov/
 schema.yml
 *-commands.md
